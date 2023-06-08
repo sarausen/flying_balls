@@ -5,7 +5,7 @@
 }
 
 body{
-  background-color: rgb(46, 40, 40);
+  background-color: rgb(24, 23, 23);
 }
 
 .fizz-particle{
@@ -51,7 +51,7 @@ body{
 
   75%{
       transform: translate(7%, -75%);
-      background-color: #379237;
+      background-color: #a32187;
   }
 
   100%{
