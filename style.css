@@ -25,17 +25,17 @@ body{
 @keyframes fizz{
   0%{
       transform: translate(0,0);
-      background-color: #DDFFBB;
+      background-color: #669f2e;
   }
 
   5%{
       transform: translate(-2%, -10%);
-      background-color: #609966;
+      background-color: #391979;
   }
 
   10%{
       transform: translate(2%, -35%);
-      background-color: #5D9C59;
+      background-color: #9c5961;
   }
 
   35%{
